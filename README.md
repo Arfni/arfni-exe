@@ -1,4 +1,4 @@
-# 버전 릴리스
+# Version Release
 
 V 1.0.0
 
