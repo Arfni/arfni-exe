@@ -1,6 +1,6 @@
 # Version Release
 
-V 1.0.0
+![latest release](https://img.shields.io/github/v/release/Arfni/arfni-exe)
 
 # **1. Installation**
 
