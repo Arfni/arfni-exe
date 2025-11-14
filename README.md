@@ -2,6 +2,8 @@
 
 ![latest release](https://img.shields.io/github/v/release/Arfni/arfni-exe)
 
+# 한국어 가이드
+[📘 한국어 문서 보기](README_KR.md)
 # **1. Installation**
 
 ### **1️⃣ Run the Installer**
